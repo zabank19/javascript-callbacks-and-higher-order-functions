@@ -1,3 +1,4 @@
+//Exercise #3: Union Function
 function union() {
   // Start coding here
 }
