@@ -1,11 +1,12 @@
+//Exercise #4: Object Filter Function
 const cities = {
   Bangkok: "BANGKOK",
   LA: "Los Angeles",
   Paris: "PARIS",
 };
 
+// Start coding here
 function objectFilter() {
-  // Start coding here
 }
 
 objectFilter(cities, (city) => city.toUpperCase());
