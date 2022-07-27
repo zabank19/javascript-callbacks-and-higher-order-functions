@@ -1,5 +1,7 @@
+// Exercise #1: For Each Function
+
+// Start coding here
 function forEach() {
-  // Start coding here
 }
 
 let alphabet = "";
