@@ -1,3 +1,5 @@
+//Exercise #2: Intersection Function
+
 function intersection() {
   // Start coding here
 }
