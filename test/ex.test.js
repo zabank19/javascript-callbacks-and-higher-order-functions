@@ -13,7 +13,7 @@ describe("Callbacks & Higher Order Functions tests cases", () => {
     ]);
   });
 
-  test.only("exercise 2: At Least Five Function", async () => {
+  test("exercise 2: At Least Five Function", async () => {
     const data = await fs.readFile("./ex-2.js");
     const code = `${data} return {scoreRoom1Result, scoreRoom2Result, scoreRoom3Result}`;
 
